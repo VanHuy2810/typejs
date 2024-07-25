@@ -1,0 +1,12 @@
+.gameItem{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 5px 10px 10px #e8f5ee;
+    height: 100px;
+}
+.unmatched{
+    background-color: rgb(51, 255, 0);
+}
+.container{
+    background-image: url("../../public/images/bg.png");
+}
